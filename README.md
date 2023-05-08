@@ -1,4 +1,4 @@
-# Jupyter Notebook associated with the following Business Analytics Msc Dissertation:
+## Jupyter Notebook associated with the following Business Analytics Msc Dissertation:
 
 "Exploratory Research: Introducing Consumer Stability as an Informing Customer Segmentation Feature"
 
