@@ -1,6 +1,6 @@
-# Jupyter Notebook associated to the following Business Analytics Msc Dissertation:
+# Jupyter Notebook associated with the following Business Analytics Msc Dissertation:
 
-Exploratory Research: Introducing Consumer Stability as an Informing Customer Segmentation Feature
+"Exploratory Research: Introducing Consumer Stability as an Informing Customer Segmentation Feature"
 
 This was completed during the 2021/22 Academic Year at the University of Nottingham.
 
